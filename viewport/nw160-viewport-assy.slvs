@@ -757,7 +757,7 @@ Group.remap={
     125 80050048 0
 }
 Group.impFile=E:\vacuum-parts\viewport\screw-M5x8.slvs
-Group.impFileRel=screw-m5x8.slvs
+Group.impFileRel=screw-M5x8.slvs
 AddGroup
 
 Group.h.v=00000007
@@ -1577,7 +1577,7 @@ Group.remap={
     17 80020002 0
 }
 Group.impFile=E:\vacuum-parts\standard\nw100-oring.slvs
-Group.impFileRel=../standard\nw100-oring.slvs
+Group.impFileRel=../standard/nw100-oring.slvs
 AddGroup
 
 Param.h.v.=00010010
