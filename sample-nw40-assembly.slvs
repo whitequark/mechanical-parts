@@ -99,7 +99,7 @@ Group.remap={
     38 80020002 0
 }
 Group.impFile=E:\nw40-centering.slvs
-Group.impFileRel=nw40-centering.slvs
+Group.impFileRel=standard/nw40-centering.slvs
 AddGroup
 
 Group.h.v=00000004
@@ -138,7 +138,7 @@ Group.remap={
     16 80020002 0
 }
 Group.impFile=E:\nw40-oring.slvs
-Group.impFileRel=nw40-oring.slvs
+Group.impFileRel=standard/nw40-oring.slvs
 AddGroup
 
 Group.h.v=00000005
@@ -193,7 +193,7 @@ Group.remap={
     33 80020002 0
 }
 Group.impFile=E:\nw40-blank.slvs
-Group.impFileRel=nw40-blank.slvs
+Group.impFileRel=standard/nw40-blank.slvs
 AddGroup
 
 Group.h.v=00000006
@@ -251,7 +251,7 @@ Group.remap={
     36 80020002 0
 }
 Group.impFile=E:\nw40-nipple-40mm.slvs
-Group.impFileRel=nw40-nipple-40mm.slvs
+Group.impFileRel=standard/nw40-nipple-40mm.slvs
 AddGroup
 
 Param.h.v.=00010010
