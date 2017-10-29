@@ -119,8 +119,8 @@ Group.remap={
     38 80020001 0
     39 80020002 0
 }
-Group.impFile=E:\vacuum-parts\standard\nw25-nipple-30mm.slvs
-Group.impFileRel=E:\vacuum-parts\standard\nw25-nipple-30mm.slvs
+Group.impFile=E:\vacuum-parts\standard\nw25-nipple-30mm-ridge.slvs
+Group.impFileRel=nw25-nipple-30mm-ridge.slvs
 AddGroup
 
 Group.h.v=00000005
